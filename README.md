@@ -1,9 +1,7 @@
 This is a simple Weather App built using Tkinter (Python's GUI library) and OpenWeatherMap API.
 
 **Requirements:**
-Python 3
-Tkinter (pre-installed with Python)
-Requests library (install using pip install requests)
+Python 3, Tkinter (pre-installed with Python), Requests library (install using pip install requests)
 
 Here are the steps to get your OpenWeatherMap API key:  
 1. Go to OpenWeatherMap - Visit [OpenWeatherMap](https://home.openweathermap.org/).  
